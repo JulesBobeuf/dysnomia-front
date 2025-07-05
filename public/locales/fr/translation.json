@@ -1,0 +1,76 @@
+{
+  "home": {
+    "title": "Accueil",
+    "loading": "Chargement...",
+    "top-games": "Top Jeux"
+  },
+  "change-language": "Changer de langue",
+  "guest": "Visiteur",
+  "welcome": "Bienvenue",
+  "signup": {
+    "title": "Inscription",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "confirm_password": "Confirmez le mot de passe",
+    "submit": "S'inscrire",
+    "loading": "Inscription en cours...",
+    "password_mismatch": "Les mots de passe ne correspondent pas"
+  },
+  "login": {
+    "title": "Se connecter",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "submit": "Se connecter",
+    "loading": "Connexion en cours..."
+  },
+  "logout": {
+    "title": "Se déconnecter"
+  },
+  "company": {
+    "view-on-igbd": "Voir sur IGDB",
+    "loading": "Chargement...",
+    "start-date": "Date de début",
+    "created-at": "Créé le",
+    "updated-at": "Mis à jour le",
+    "url": "Lien"
+  },
+  "profile": {
+    "title": "Profil",
+    "name": "Nom",
+    "favorites": "Favoris",
+    "no_favorites": "Aucun favori disponible.",
+    "delete_button": "Supprimer le compte",
+    "delete_error": "Échec de la suppression du compte."
+  },
+  "top": {
+    "title": "Top"
+  },
+  "search": {
+    "title": "Rechercher"
+  },
+  "game-details": {
+    "loading": "Chargement...",
+    "back": "Retour",
+    "summary": "Résumé",
+    "rating": "Note",
+    "release_date": "Date de sortie",
+    "screenshots": "Captures d’écran",
+    "companies": "Sociétés"
+  },
+  "top-game-list": {
+    "loading": "Chargement...",
+    "title": "Top Jeux (Page {{page}})",
+    "search-placeholder": "Rechercher un jeu...",
+    "no-results": "Aucun jeu trouvé.",
+    "previous": "Précédent",
+    "next": "Suivant"
+  },
+  "footer": {
+    "project-disclaimer": "Ce site a été réalisé dans le cadre d’un projet étudiant.",
+    "authors": "Conçu et développé par Mahieux Clément & Jules Bobeuf.",
+    "thanks": "Merci à tous ceux qui nous ont soutenus dans cette aventure."
+  },
+  "404":{
+    "content": "La page que vous cherchez n'existe pas."
+  }
+}

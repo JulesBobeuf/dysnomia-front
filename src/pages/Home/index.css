@@ -1,0 +1,33 @@
+.home-container {
+    max-width: 64rem;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
+  .home-title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    color: #1f2937;
+  }
+
+  .games-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+  }
+
+  .loading-text {
+  font-size: 1.2rem;
+  color: #555;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0% { opacity: 0.5; }
+  50% { opacity: 1; }
+  100% { opacity: 0.5; }
+}

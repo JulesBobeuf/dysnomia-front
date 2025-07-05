@@ -1,0 +1,76 @@
+{
+  "home": {
+    "title": "Home",
+    "loading": "Loading...",
+    "top-games": "Top Games"
+  },
+  "change-language": "Change language",
+  "guest": "Guest",
+  "welcome": "Welcome",
+  "signup": {
+    "title": "Sign Up",
+    "username": "Username",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "submit": "Register",
+    "loading": "Registering...",
+    "password_mismatch": "Passwords do not match"
+  },
+  "login": {
+    "title": "Log in",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Log in",
+    "loading": "Logging in..."
+  },
+  "logout": {
+    "title": "Log out"
+  },
+  "company": {
+    "view-on-igbd": "View on IGDB",
+    "loading": "Loading...",
+    "start-date": "Start Date",
+    "created-at": "Created At",
+    "updated-at": "Updated At",
+    "url": "Website URL"
+  },
+  "profile": {
+    "title": "User Profile",
+    "name": "Name",
+    "favorites": "Favorites",
+    "no_favorites": "No favorites available.",
+    "delete_button": "Delete Account",
+    "delete_error": "Failed to delete account."
+  },
+  "top": {
+    "title": "Top"
+  },
+  "search": {
+    "title": "Search"
+  },
+  "game-details": {
+    "loading": "Loading...",
+    "back": "Back",
+    "summary": "Summary",
+    "rating": "Rating",
+    "release_date": "Release Date",
+    "screenshots": "Screenshots",
+    "companies": "Companies"
+  },
+  "top-game-list": {
+      "loading": "Loading...",
+      "title": "Top Games (Page {{page}})",
+      "search-placeholder": "Search for a game...",
+      "no-results": "No games found.",
+      "previous": "Previous",
+      "next": "Next"
+    },
+    "footer": {
+      "project-disclaimer": "This site was created as part of a student project.",
+      "authors": "Designed and developed by Mahieux Clément & Jules Bobeuf.",
+      "thanks": "Thanks to everyone who supported us in this journey."
+    },
+    "404":{
+      "content": "The page you are looking for does not exist."
+    }
+  }
