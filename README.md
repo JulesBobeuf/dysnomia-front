@@ -1,6 +1,7 @@
 # Projet Front
 
 This project is an interface for the `dysnomia` API
+
 It has been developed for a course held by [Axel "Elanis" Soupé](https://github.com/Elanis)
 
 ## Commandes utiles
@@ -28,4 +29,5 @@ npm run clean
 ## Authors
 
 BOBEUF Jules
+
 MAHIEUX Clément
